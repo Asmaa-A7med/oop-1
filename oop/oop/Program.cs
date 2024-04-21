@@ -40,12 +40,3 @@
         }
     }
 }
-
-
-
-
-
-
-
-//create class and access objects from class 
-//what is member classes 
